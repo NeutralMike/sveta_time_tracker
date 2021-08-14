@@ -2,5 +2,5 @@
 
 ![insides](readme_images/inside.jpg)
 
-color: #E6E6FA
+color: #FFDEAD
 
