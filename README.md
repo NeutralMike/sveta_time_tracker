@@ -1,6 +1,6 @@
-![cartpole](readme_images/box.jpg)
+![box](readme_images/box.jpg)
 
-![results](readme_images/inside.jpg)
+![insides](readme_images/inside.jpg)
 
 color: #E6E6FA
 
